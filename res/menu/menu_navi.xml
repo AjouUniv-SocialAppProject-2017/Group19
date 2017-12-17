@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/my_memo"
+        android:icon="@drawable/ic_add"
+        android:title="내가 올린 글" />
+    <item
+        android:icon="@drawable/ic_add"
+        android:id="@+id/keyword"
+        android:title="키워드" />
+    <item
+        android:icon="@drawable/ic_add"
+        android:id="@+id/today_picture"
+        android:title="오늘의 사진" />
+    <item
+        android:icon="@drawable/ic_add"
+        android:id="@+id/today_music"
+        android:title="오늘의 노래" />
+    <item
+        android:icon="@drawable/ic_add"
+        android:id="@+id/setting"
+        android:title="설정" />
+    <item
+        android:icon="@drawable/ic_add"
+        android:id="@+id/logout"
+        android:title="로그아웃" />
+</menu>
